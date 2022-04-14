@@ -1,0 +1,9 @@
+# Node
+node_modules
+
+# Hugo
+resources
+public
+
+# mac OS
+.DS_Store

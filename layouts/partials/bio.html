@@ -1,0 +1,30 @@
+<style>
+.bio-bio {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100ch;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.bio-bio > * {
+  text-align: center;
+  max-width: 80ch;
+}
+
+.bio-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+}
+</style>
+<div class="bio-bio">
+<img class="bio-img" src="{{.Params.image}}" />
+
+{{ $pennkey := index .Params.email 0 }}
+{{ $subdomain := index .Params.email 1 }}
+<b>{{.Params.name}}</b>
+<span>(<a href="mailto:{{ $pennkey }}@{{ $subdomain }}.upenn.edu">{{ $pennkey }}@{{ $subdomain }}</a>)</span>
+<div style="width: 200px">{{ .Content }}</div>
+</div>

@@ -1,0 +1,82 @@
+baseURL = "http://example.org/"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "Bell Senior Society"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+
+[menu]
+  [[menu.main]]
+    identifier = "honorary"
+    name = "Honorary"
+    url = "/honorary/"
+    title = ""
+    weight = 0
+  [[menu.main]]
+    identifier = "2014"
+    name = "2014"
+    url = "/2014/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2015"
+    name = "2015"
+    url = "/2015/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2016"
+    name = "2016"
+    url = "/2016/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2017"
+    name = "2017"
+    url = "/2017/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2018"
+    name = "2018"
+    url = "/2018/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2019"
+    name = "2019"
+    url = "/2019/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2020"
+    name = "2020"
+    url = "/2020/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2021"
+    name = "2021"
+    url = "/2021/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "2022"
+    name = "2022"
+    url = "/2022/"
+    title = ""
+    weight = 1
+            
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false

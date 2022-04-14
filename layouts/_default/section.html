@@ -1,0 +1,17 @@
+{{- define "title" }}
+    {{- .Section }} - {{ .Site.Title -}}
+{{- end -}}
+
+{{- define "content" -}}
+    <div class="page archive">
+        <h1>Bell {{.Section}} Members</h1>
+        <br></br>
+        <div style="display: flex; flex-direction: row; justify-content: center;">
+            {{ range .Pages }}
+
+                {{ partial "bio.html" .}}
+
+            {{ end }}
+        </div>
+    </div>
+{{- end -}}
