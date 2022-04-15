@@ -1,5 +1,5 @@
 {{- define "title" }}
-    {{- .Section }} - {{ .Site.Title -}}
+    {{- singularize .Name }} - {{ .Site.Title -}}
 {{- end -}}
 
 {{- define "content" -}}
@@ -13,7 +13,7 @@
 
 
     <div class="page archive">
-        <h1 class="section-title">Bell {{.Section}} Members</h1>
+        <h1 class="section-title">Bell {{singularize .Name}} Members</h1>
         <hr padding = "10px">
         <br></br>
         
