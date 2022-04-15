@@ -30,7 +30,8 @@
         </div>
         <div class="menu">
             <div class="menu-inner">
-                {{- range .Site.Menus.main -}}
+                <!-- hack to get honorary to show up on the left -->
+                {{- range where .Site.Menus.main ".Weight" 0 -}}
                     {{- $url := .URL | relLangURL -}}
                     {{- with .Page -}}
                         {{- $url = .RelPermalink -}}
@@ -39,6 +40,15 @@
                         {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
                     </a>
                 {{- end -}}
+                {{- range where .Site.Menus.main ".Weight" 1 -}}
+                {{- $url := .URL | relLangURL -}}
+                {{- with .Page -}}
+                    {{- $url = .RelPermalink -}}
+                {{- end -}}
+                <a class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}" href="{{ $url }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if (urls.Parse $url).Host }} rel="noopener noreffer" target="_blank"{{ end }}>
+                    {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
+                </a>
+            {{- end -}}
                 {{- if .Site.Menus.main -}}
                     <span class="menu-item delimiter"></span>
                 {{- end -}}
