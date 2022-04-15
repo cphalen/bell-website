@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Josh Kopelman",
+        "image": "https://bellsociety.com/images/members/Honorary/josh-kopelman.jpg",
+        "code": "josh-kopelman",
+        "desc": "Founding Partner, First Round Capital",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/jkopelman",
+            "twitter": "https://twitter.com/joshk",
+            "email": "",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Slava Rubin",
+        "image": "https://bellsociety.com/images/members/Honorary/slava-rubin.jpg",
+        "code": "slava-rubin",
+        "desc": "Founder at Indiegogo",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/indieslava",
+            "twitter": "",
+            "email": "",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Ted Schlein",
+        "image": "https://bellsociety.com/images/members/Honorary/ted-schlein.jpg",
+        "code": "ted-schlein",
+        "desc": "General Partner, Kleiner Perkins Caufield & Byers",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/ted-schlein-5630184b",
+            "twitter": "",
+            "email": "",
+            "facebook": ""
+        }
+    }
+]

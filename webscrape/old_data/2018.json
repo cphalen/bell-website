@@ -1,0 +1,405 @@
+[
+    {
+        "name": "Andrea Baric",
+        "image": "https://bellsociety.com/images/members/2018/andrea-baric.jpg",
+        "code": "andrea-baric",
+        "desc": "DDoS-ing the patriarchy",
+        "socials": {
+            "github": "https://github.com/abaric",
+            "linkedin": "https://linkedin.com/in/abaric1",
+            "twitter": "",
+            "email": "mailto:abaric896@gmail.com",
+            "facebook": "https://facebook.com/abaric2"
+        }
+    },
+    {
+        "name": "Anvita Achar",
+        "image": "https://bellsociety.com/images/members/2018/anvita-achar.jpg",
+        "code": "anvita-achar",
+        "desc": "Teaching technology to whoever will listen",
+        "socials": {
+            "github": "https://github.com/anvitaa",
+            "linkedin": "https://linkedin.com/in/anvitaachar",
+            "twitter": "",
+            "email": "mailto:anvita.achar@gmail.com",
+            "facebook": "https://facebook.com/anvita.achar"
+        }
+    },
+    {
+        "name": "Bill He",
+        "image": "https://bellsociety.com/images/members/2018/bill-he.jpg",
+        "code": "bill-he",
+        "desc": "Catch on fire with enthusiasm",
+        "socials": {
+            "github": "https://github.com/bill-he",
+            "linkedin": "https://linkedin.com/in/bill-he-43a00994",
+            "twitter": "",
+            "email": "mailto:billhebillhe@gmail.com",
+            "facebook": "https://facebook.com/bilawesome"
+        }
+    },
+    {
+        "name": "Daniel Moreno",
+        "image": "https://bellsociety.com/images/members/2018/daniel-moreno.jpg",
+        "code": "daniel-moreno",
+        "desc": "Nomad with a knack for design",
+        "socials": {
+            "github": "https://github.com/morendawg",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:dmorenocuellar@gmail.com",
+            "facebook": "https://facebook.com/danmorenocuellar"
+        }
+    },
+    {
+        "name": "Daniel Zhang",
+        "image": "https://bellsociety.com/images/members/2018/daniel-zhang.jpg",
+        "code": "daniel-zhang",
+        "desc": "I like math please don't take my lunch money",
+        "socials": {
+            "github": "https://github.com/dzhang55",
+            "linkedin": "https://linkedin.com/in/danielzhang55",
+            "twitter": "",
+            "email": "mailto:dzhang55@gmail.com",
+            "facebook": "https://facebook.com/danielzhang55"
+        }
+    },
+    {
+        "name": "David Ongchoco",
+        "image": "https://bellsociety.com/images/members/2018/david-ongchoco.jpg",
+        "code": "david-ongchoco",
+        "desc": "Always be hustling",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/davidongchoco",
+            "twitter": "https://twitter.com/doitchoco",
+            "email": "mailto:david.ongchoco@gmail.com",
+            "facebook": "https://facebook.com/david.ongchoco"
+        }
+    },
+    {
+        "name": "Devesh Dayal",
+        "image": "https://bellsociety.com/images/members/2018/devesh-dayal.jpg",
+        "code": "devesh-dayal",
+        "desc": "Diagonally parked in a parallel universe",
+        "socials": {
+            "github": "https://github.com/devesh95",
+            "linkedin": "https://linkedin.com/in/deveshdayal",
+            "twitter": "https://twitter.com/deveshdayal",
+            "email": "mailto:devesh95@gmail.com",
+            "facebook": "https://facebook.com/devesh.dayal1"
+        }
+    },
+    {
+        "name": "Elizabeth Hamp",
+        "image": "https://bellsociety.com/images/members/2018/elizabeth-hamp.jpg",
+        "code": "elizabeth-hamp",
+        "desc": "STEM & sarcasm",
+        "socials": {
+            "github": "https://github.com/ehamp",
+            "linkedin": "https://linkedin.com/in/elizabethhamp",
+            "twitter": "",
+            "email": "mailto:elizabethjhamp@gmail.com",
+            "facebook": "https://facebook.com/elizabethhamp"
+        }
+    },
+    {
+        "name": "Francisco Selame",
+        "image": "https://bellsociety.com/images/members/2018/francisco-selame.jpg",
+        "code": "francisco-selame",
+        "desc": "Computer Illiterate",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/franciscoselame",
+            "twitter": "",
+            "email": "mailto:selame.francisco@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Holly Li",
+        "image": "https://bellsociety.com/images/members/2018/holly-li.jpg",
+        "code": "holly-li",
+        "desc": "Wait, what font are we using",
+        "socials": {
+            "github": "https://github.com/hollyli2018",
+            "linkedin": "https://linkedin.com/in/hollyli2018",
+            "twitter": "",
+            "email": "mailto:holly.li2096@gmail.com",
+            "facebook": "https://facebook.com/holly.li.3"
+        }
+    },
+    {
+        "name": "Jacob Bass",
+        "image": "https://bellsociety.com/images/members/2018/jacob-bass.jpg",
+        "code": "jacob-bass",
+        "desc": "more humble than you",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:jmikob@gmail.com",
+            "facebook": "https://facebook.com/jmikob"
+        }
+    },
+    {
+        "name": "Jacob Kahn",
+        "image": "https://bellsociety.com/images/members/2018/jacob-kahn.jpg",
+        "code": "jacob-kahn",
+        "desc": "Too much to learn, too little time",
+        "socials": {
+            "github": "https://github.com/jacobkahn",
+            "linkedin": "https://linkedin.com/in/jacobdavidkahn",
+            "twitter": "",
+            "email": "mailto:jacobkahn1@gmail.com",
+            "facebook": "https://facebook.com/jacob.david.kahn"
+        }
+    },
+    {
+        "name": "Jake Fischer",
+        "image": "https://bellsociety.com/images/members/2018/jake-fischer.jpg",
+        "code": "jake-fischer",
+        "desc": "Living in slow motion",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/jake-fischer",
+            "twitter": "",
+            "email": "mailto:jakexfischer@gmail.com",
+            "facebook": "https://facebook.com/jakefisch"
+        }
+    },
+    {
+        "name": "John Hewitt",
+        "image": "https://bellsociety.com/images/members/2018/john-hewitt.jpg",
+        "code": "john-hewitt",
+        "desc": "Learn so as to teach",
+        "socials": {
+            "github": "https://github.com/john-hewitt",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:john.hewitt64@gmail.com",
+            "facebook": "https://facebook.com/john.w.hewitt.7"
+        }
+    },
+    {
+        "name": "Julia Wang",
+        "image": "https://bellsociety.com/images/members/2018/julia-wang.jpg",
+        "code": "julia-wang",
+        "desc": "sentient meat living on a speck",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/juliawng",
+            "twitter": "https://twitter.com/julia_wng",
+            "email": "mailto:juliawngg@gmail.com",
+            "facebook": "https://facebook.com/juliawngg"
+        }
+    },
+    {
+        "name": "Karen Zhao",
+        "image": "https://bellsociety.com/images/members/2018/karen-zhao.jpg",
+        "code": "karen-zhao",
+        "desc": "Thinking about thinking about thinking",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/karenzhao2",
+            "twitter": "",
+            "email": "mailto:karenzhao2@gmail.com",
+            "facebook": "https://facebook.com/karenzhao54"
+        }
+    },
+    {
+        "name": "Karinna Loo",
+        "image": "https://bellsociety.com/images/members/2018/karinna-loo.jpg",
+        "code": "karinna-loo",
+        "desc": "Will code for Chipotle",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:karinnaloo@pacbell.net",
+            "facebook": "https://facebook.com/thug"
+        }
+    },
+    {
+        "name": "Kasra Koushan",
+        "image": "https://bellsociety.com/images/members/2018/kasra-koushan.jpg",
+        "code": "kasra-koushan",
+        "desc": "be obsessive about the right things",
+        "socials": {
+            "github": "https://github.com/kasrakoushan",
+            "linkedin": "https://linkedin.com/in/kasrakoushan",
+            "twitter": "",
+            "email": "mailto:kasra.koushan@gmail.com",
+            "facebook": "https://facebook.com/kasra.koushan"
+        }
+    },
+    {
+        "name": "Krishna Bharathala",
+        "image": "https://bellsociety.com/images/members/2018/krishna-bharathala.jpg",
+        "code": "krishna-bharathala",
+        "desc": "waiting for an apple to hit me",
+        "socials": {
+            "github": "https://github.com/kbharathala",
+            "linkedin": "https://linkedin.com/in/kbharathala",
+            "twitter": "https://twitter.com/bharathala",
+            "email": "mailto:kbharathala@gmail.com",
+            "facebook": "https://facebook.com/kbharathala"
+        }
+    },
+    {
+        "name": "Matt Wachter",
+        "image": "https://bellsociety.com/images/members/2018/matt-wachter.jpg",
+        "code": "matt-wachter",
+        "desc": "I'm not superstitious, I'm just a little stitious",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "https://twitter.com/MatthewWachter1",
+            "email": "mailto:matthewwachter1@gmail.com",
+            "facebook": "https://facebook.com/matthew.wachter.92"
+        }
+    },
+    {
+        "name": "Natasha Narang",
+        "image": "https://bellsociety.com/images/members/2018/natasha-narang.jpg",
+        "code": "natasha-narang",
+        "desc": "",
+        "socials": {
+            "github": "https://github.com/nnarang7",
+            "linkedin": "https://linkedin.com/in/natashan",
+            "twitter": "",
+            "email": "mailto:nnarang777@gmail.com",
+            "facebook": "https://facebook.com/natasha.narang.10"
+        }
+    },
+    {
+        "name": "Parth Chopra",
+        "image": "https://bellsociety.com/images/members/2018/parth-chopra.jpg",
+        "code": "parth-chopra",
+        "desc": "",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/parth-chopra",
+            "twitter": "",
+            "email": "mailto:parthchopra28@gmail.com",
+            "facebook": "https://facebook.com/parth.chopra.3"
+        }
+    },
+    {
+        "name": "Phillip Trent",
+        "image": "https://bellsociety.com/images/members/2018/phillip-trent.jpg",
+        "code": "phillip-trent",
+        "desc": "making and breaking magic.",
+        "socials": {
+            "github": "https://github.com/Phillip3",
+            "linkedin": "",
+            "twitter": "https://twitter.com/PhillipTrentIII",
+            "email": "mailto:philliphtrent@gmail.com",
+            "facebook": "https://facebook.com/Philthe3rd"
+        }
+    },
+    {
+        "name": "Raymond Yin",
+        "image": "https://bellsociety.com/images/members/2018/raymond-yin.jpg",
+        "code": "raymond-yin",
+        "desc": "Build fun-to-use products",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/raymondwyin",
+            "twitter": "",
+            "email": "mailto:ryin@seas.upenn.edu",
+            "facebook": "https://facebook.com/ry19457"
+        }
+    },
+    {
+        "name": "Sam Burns",
+        "image": "https://bellsociety.com/images/members/2018/sam-burns.jpg",
+        "code": "sam-burns",
+        "desc": "Makes a big deal outta nano things.",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/samreedburns",
+            "twitter": "https://twitter.com/samreedburns",
+            "email": "mailto:samanthaburnsfl@gmail.com",
+            "facebook": "https://facebook.com/burns.sam"
+        }
+    },
+    {
+        "name": "Sammi Caby",
+        "image": "https://bellsociety.com/images/members/2018/sammi-caby.jpg",
+        "code": "sammi-caby",
+        "desc": "Just a muggle in a tech world",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/samanthacaby",
+            "twitter": "",
+            "email": "mailto:scaby2323@gmail.com",
+            "facebook": "https://facebook.com/sammi.caby"
+        }
+    },
+    {
+        "name": "Sanjula Weerawardhena",
+        "image": "https://bellsociety.com/images/members/2018/sanjula-weerawardhena.jpg",
+        "code": "sanjula-weerawardhena",
+        "desc": "Developing South Asia with Tech and Business",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/sanjula-weerawardhena-a4a248a7",
+            "twitter": "",
+            "email": "mailto:sanjula.c.w@gmail.com",
+            "facebook": "https://facebook.com/sanjula.chandrin"
+        }
+    },
+    {
+        "name": "Serena Bian",
+        "image": "https://bellsociety.com/images/members/2018/serena-bian.jpg",
+        "code": "serena-bian",
+        "desc": "Making space for psychological safety",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/serena-bian-440155aa",
+            "twitter": "https://twitter.com/serenabian1",
+            "email": "mailto:serenabian18@gmail.com",
+            "facebook": "https://facebook.com/serena.bian.5"
+        }
+    },
+    {
+        "name": "Tash Doherty",
+        "image": "https://bellsociety.com/images/members/2018/tash-doherty.jpg",
+        "code": "tash-doherty",
+        "desc": "Design. Sustainability. Businesses with a heart.",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/ndoherty1",
+            "twitter": "",
+            "email": "mailto:natashardoherty@gmail.com",
+            "facebook": "https://facebook.com/htash.dokerty"
+        }
+    },
+    {
+        "name": "Tiffany Kim",
+        "image": "https://bellsociety.com/images/members/2018/tiffany-kim.jpg",
+        "code": "tiffany-kim",
+        "desc": "hiking, surfing, tech-ing",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/kimtiffany",
+            "twitter": "",
+            "email": "mailto:kimtiffanyj@gmail.com",
+            "facebook": "https://facebook.com/tiffany.j.kim"
+        }
+    },
+    {
+        "name": "Vishnu Rachakonda",
+        "image": "https://bellsociety.com/images/members/2018/vishnu-rachakonda.jpg",
+        "code": "vishnu-rachakonda",
+        "desc": "figuring it out",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/vrachakonda",
+            "twitter": "",
+            "email": "mailto:vrachakonda96@gmail.com",
+            "facebook": "https://facebook.com/vishnu.rachakonda.5"
+        }
+    }
+]

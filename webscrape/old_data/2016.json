@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Adina Luo",
+        "image": "https://bellsociety.com/images/members/2016/adina-luo.jpg",
+        "code": "adina-luo",
+        "desc": "Entertainment, tech, and sass enthusiast",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/adinaluo",
+            "twitter": "",
+            "email": "mailto:adinaluo@gmail.com",
+            "facebook": "https://facebook.com/luo.adina"
+        }
+    },
+    {
+        "name": "Alexander Facey",
+        "image": "https://bellsociety.com/images/members/2016/alexander-facey.jpg",
+        "code": "alexander-facey",
+        "desc": "Resident composites expert",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/afacey",
+            "twitter": "https://twitter.com/AlexBFacey",
+            "email": "mailto:alexanderfacey@icloud.com",
+            "facebook": "https://facebook.com/alexbfacey"
+        }
+    },
+    {
+        "name": "Alicia Chon",
+        "image": "https://bellsociety.com/images/members/2016/alicia-chon.jpg",
+        "code": "alicia-chon",
+        "desc": "Good at getting likes on Instagram",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/aliciachon",
+            "twitter": "",
+            "email": "mailto:aliciajhchon@gmail.com",
+            "facebook": "https://facebook.com/aliciachon"
+        }
+    },
+    {
+        "name": "Alina Wong",
+        "image": "https://bellsociety.com/images/members/2016/alina-wong.jpg",
+        "code": "alina-wong",
+        "desc": "Food + retail + hospitality, Co-Founder of NOMsense Bakery",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "https://twitter.com/alinaw123",
+            "email": "mailto:alinawong123@gmail.com",
+            "facebook": "https://facebook.com/alina.wong.94"
+        }
+    },
+    {
+        "name": "Armen Vardanyan",
+        "image": "https://bellsociety.com/images/members/2016/armen-vardanyan.jpg",
+        "code": "armen-vardanyan",
+        "desc": "Intelligent Systems Enthusiast and Arm-Wrestling Fan",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/vaarmen",
+            "twitter": "",
+            "email": "mailto:vaarmen94@gmail.com",
+            "facebook": "https://facebook.com/vaarmen94"
+        }
+    },
+    {
+        "name": "Audrey Harnagel",
+        "image": "https://bellsociety.com/images/members/2016/audrey-harnagel.jpg",
+        "code": "audrey-harnagel",
+        "desc": "Nature enthisuast and lover of living things",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:aeharnagel@gmail.com",
+            "facebook": "https://facebook.com/audrey.harnagel"
+        }
+    },
+    {
+        "name": "Ben Feis",
+        "image": "https://bellsociety.com/images/members/2016/ben-feis.jpg",
+        "code": "ben-feis",
+        "desc": "Feisty",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/bfeis",
+            "twitter": "https://twitter.com/ben_feis",
+            "email": "mailto:benfeis@gmail.com",
+            "facebook": "https://facebook.com/bfeis24"
+        }
+    },
+    {
+        "name": "Benedikt Lotter",
+        "image": "https://bellsociety.com/images/members/2016/benedikt-lotter.jpg",
+        "code": "benedikt-lotter",
+        "desc": "Works (out) and listens to music",
+        "socials": {
+            "github": "https://github.com/blotter123",
+            "linkedin": "https://linkedin.com/in/benedikt-lotter",
+            "twitter": "",
+            "email": "mailto:blotter123@gmail.com",
+            "facebook": "https://facebook.com/benedikt.lotter"
+        }
+    },
+    {
+        "name": "Evan Bayless",
+        "image": "https://bellsociety.com/images/members/2016/evan-bayless.jpg",
+        "code": "evan-bayless",
+        "desc": "Hyped Technologist",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/evanbayless",
+            "twitter": "https://twitter.com/3bayless",
+            "email": "mailto:ebay787@gmail.com",
+            "facebook": "https://facebook.com/evynbayless"
+        }
+    },
+    {
+        "name": "Fabian Toro",
+        "image": "https://bellsociety.com/images/members/2016/fabian-toro.jpg",
+        "code": "fabian-toro",
+        "desc": "Exploring deep dark corners of universal consciousness",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Fifi Yeung",
+        "image": "https://bellsociety.com/images/members/2016/fifi-yeung.jpg",
+        "code": "fifi-yeung",
+        "desc": "Renaissance Woman Technologist",
+        "socials": {
+            "github": "https://github.com/feefles",
+            "linkedin": "https://linkedin.com/in/evelynfifiyeung",
+            "twitter": "",
+            "email": "mailto:eyeung@seas.upenn.edu",
+            "facebook": "https://facebook.com/yeung.fifi"
+        }
+    },
+    {
+        "name": "Hong Kim",
+        "image": "https://bellsociety.com/images/members/2016/hong-kim.jpg",
+        "code": "hong-kim",
+        "desc": "Resident 30-year-old",
+        "socials": {
+            "github": "https://github.com/honki91",
+            "linkedin": "https://linkedin.com/in/hongkimm",
+            "twitter": "",
+            "email": "mailto:honki91@gmail.com",
+            "facebook": "https://facebook.com/honki91"
+        }
+    },
+    {
+        "name": "Ian Sibner",
+        "image": "https://bellsociety.com/images/members/2016/ian-sibner.jpg",
+        "code": "ian-sibner",
+        "desc": "Sometimes I write JavaScript",
+        "socials": {
+            "github": "https://github.com/sibnerian",
+            "linkedin": "https://linkedin.com/in/sibnerian",
+            "twitter": "https://twitter.com/eon_cyber",
+            "email": "mailto:sibnerian@gmail.com",
+            "facebook": "https://facebook.com/ian.sibner"
+        }
+    },
+    {
+        "name": "Jimmy Kwon",
+        "image": "https://bellsociety.com/images/members/2016/jimmy-kwon.jpg",
+        "code": "jimmy-kwon",
+        "desc": "Fan of serendipity and design+tech",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/jimmykwon",
+            "twitter": "https://twitter.com/jimmyykwon",
+            "email": "mailto:shk3654@gmail.com",
+            "facebook": "https://facebook.com/jkwon10"
+        }
+    },
+    {
+        "name": "Jonathan Dubin",
+        "image": "https://bellsociety.com/images/members/2016/jonathan-dubin.jpg",
+        "code": "jonathan-dubin",
+        "desc": "Evenly distributing the future",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:jonathandubin@gmail.com",
+            "facebook": "https://facebook.com/dubin"
+        }
+    },
+    {
+        "name": "Joon Choi",
+        "image": "https://bellsociety.com/images/members/2016/joon-choi.jpg",
+        "code": "joon-choi",
+        "desc": "Special Forces Sergeant, Value-Seeking Entrepreneur",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:joonyong0505@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Karan Hiremath",
+        "image": "https://bellsociety.com/images/members/2016/karan-hiremath.jpg",
+        "code": "karan-hiremath",
+        "desc": "If you take away the excessive partying, I'm really just a huge nerd",
+        "socials": {
+            "github": "https://github.com/karanhiremath",
+            "linkedin": "https://linkedin.com/in/karanhir",
+            "twitter": "https://twitter.com/karan_hiremath",
+            "email": "mailto:karan.hiremath@gmail.com",
+            "facebook": "https://facebook.com/khir3009"
+        }
+    },
+    {
+        "name": "Kevin Zhai",
+        "image": "https://bellsociety.com/images/members/2016/kevin-zhai.jpg",
+        "code": "kevin-zhai",
+        "desc": "Raving about apples and oranges",
+        "socials": {
+            "github": "https://github.com/kevinzhai",
+            "linkedin": "https://linkedin.com/in/kevin-zhai-41565468",
+            "twitter": "",
+            "email": "mailto:zhaike12321@gmail.com",
+            "facebook": "https://facebook.com/kzhai"
+        }
+    },
+    {
+        "name": "Lauren McCann",
+        "image": "https://bellsociety.com/images/members/2016/lauren-mccann.jpg",
+        "code": "lauren-mccann",
+        "desc": "Exploring",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/lmccann1",
+            "twitter": "",
+            "email": "mailto:lmccannwh16@gmail.com",
+            "facebook": "https://facebook.com/lauren.mccann.108"
+        }
+    },
+    {
+        "name": "Lauren Reeder",
+        "image": "https://bellsociety.com/images/members/2016/lauren-reeder.jpg",
+        "code": "lauren-reeder",
+        "desc": "Unicorn hunting",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/lauren-reeder",
+            "twitter": "",
+            "email": "mailto:laurenmreeder@gmail.com",
+            "facebook": "https://facebook.com/lauren.reeder.311"
+        }
+    },
+    {
+        "name": "Mac Cordrey",
+        "image": "https://bellsociety.com/images/members/2016/mac-cordrey.jpg",
+        "code": "mac-cordrey",
+        "desc": "Enjoys disco music & mobile tech",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "https://twitter.com/maccordrey",
+            "email": "mailto:maccordrey@gmail.com",
+            "facebook": "https://facebook.com/mac.cordrey"
+        }
+    },
+    {
+        "name": "Matt Schulman",
+        "image": "https://bellsociety.com/images/members/2016/matt-schulman.jpg",
+        "code": "matt-schulman",
+        "desc": "Mountain Climbing Entrepreneur",
+        "socials": {
+            "github": "https://github.com/matthewdschulman",
+            "linkedin": "https://linkedin.com/in/matthew-schulman",
+            "twitter": "",
+            "email": "mailto:matthewdschulman@gmail.com",
+            "facebook": "https://facebook.com/matt.schulman.3"
+        }
+    },
+    {
+        "name": "Morgan Snyder",
+        "image": "https://bellsociety.com/images/members/2016/morgan-snyder.jpg",
+        "code": "morgan-snyder",
+        "desc": "90-decibel social entrepreneur / Desi girl wannabe?",
+        "socials": {
+            "github": "https://github.com/mosnyder",
+            "linkedin": "https://linkedin.com/in/mosnyder",
+            "twitter": "https://twitter.com/morganicle",
+            "email": "mailto:m.sierrasnyder@gmail.com",
+            "facebook": "https://facebook.com/morgan.s.snyder"
+        }
+    },
+    {
+        "name": "Nilesh Kavthekar",
+        "image": "https://bellsociety.com/images/members/2016/nilesh-kavthekar.jpg",
+        "code": "nilesh-kavthekar",
+        "desc": "Resident pot-stirrer",
+        "socials": {
+            "github": "https://github.com/nkav",
+            "linkedin": "https://linkedin.com/in/nkavthekar",
+            "twitter": "https://twitter.com/niles_h",
+            "email": "mailto:nakavthekar@gmail.com",
+            "facebook": "https://facebook.com/nkavthekar"
+        }
+    },
+    {
+        "name": "Prashant Ramesh",
+        "image": "https://bellsociety.com/images/members/2016/prashant-ramesh.jpg",
+        "code": "prashant-ramesh",
+        "desc": "Filled with renewable energy",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/prashantramesh",
+            "twitter": "https://twitter.com/pshant94",
+            "email": "mailto:ramesh.prashant@gmail.com",
+            "facebook": "https://facebook.com/ramesh.prashant"
+        }
+    },
+    {
+        "name": "Rebecca Hallac",
+        "image": "https://bellsociety.com/images/members/2016/rebecca-hallac.jpg",
+        "code": "rebecca-hallac",
+        "desc": "Animated Technologist!",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/rhallac",
+            "twitter": "",
+            "email": "mailto:rahallac@gmail.com",
+            "facebook": "https://facebook.com/rhallac"
+        }
+    },
+    {
+        "name": "Richard Roberts",
+        "image": "https://bellsociety.com/images/members/2016/richard-roberts.jpg",
+        "code": "richard-roberts",
+        "desc": "Hacking into your computer right now",
+        "socials": {
+            "github": "https://github.com/rrobertsdev",
+            "linkedin": "",
+            "twitter": "https://twitter.com/stack__trace",
+            "email": "mailto:rrobertsdev@gmail.com",
+            "facebook": "https://facebook.com/richard.roberts.5015"
+        }
+    },
+    {
+        "name": "Rolanda Evelyn",
+        "image": "https://bellsociety.com/images/members/2016/rolanda-evelyn.jpg",
+        "code": "rolanda-evelyn",
+        "desc": "Obsessed with all things fashion + retail + tech",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/rolanda-evelyn-07892864",
+            "twitter": "",
+            "email": "mailto:rolanda.evelyn@gmail.com",
+            "facebook": "https://facebook.com/rolanda.evelyn"
+        }
+    },
+    {
+        "name": "Sally Kong",
+        "image": "https://bellsociety.com/images/members/2016/sally-kong.jpg",
+        "code": "sally-kong",
+        "desc": "To define is to limit",
+        "socials": {
+            "github": "https://github.com/kongsally",
+            "linkedin": "https://linkedin.com/in/kongsally",
+            "twitter": "",
+            "email": "mailto:kongsally94@gmail.com",
+            "facebook": "https://facebook.com/kongsally"
+        }
+    },
+    {
+        "name": "Sudarshan Muralidhar",
+        "image": "https://bellsociety.com/images/members/2016/sudarshan-muralidhar.jpg",
+        "code": "sudarshan-muralidhar",
+        "desc": "Head in the Cloud",
+        "socials": {
+            "github": "https://github.com/sudssm",
+            "linkedin": "https://linkedin.com/in/sudarshan.muralidhar",
+            "twitter": "",
+            "email": "mailto:smural@seas.upenn.edu",
+            "facebook": "https://facebook.com/sudarshan.muralidhar"
+        }
+    }
+]

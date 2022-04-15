@@ -1,0 +1,405 @@
+[
+    {
+        "name": "Aashish Jain",
+        "image": "https://bellsociety.com/images/members/2021/aashish-jain.jpg",
+        "code": "aashish-jain",
+        "desc": "__",
+        "socials": {
+            "github": "https://github.com/http://github.com/aashj",
+            "linkedin": "https://linkedin.com/in/aashish-jain-8ab164156/",
+            "twitter": "https://twitter.com/aashj99",
+            "email": "mailto:aashj99@seas.upenn.edu",
+            "facebook": "https://facebook.com/profile.php?id=100008232369740"
+        }
+    },
+    {
+        "name": "Andrew Shen",
+        "image": "https://bellsociety.com/images/members/2021/andrew-shen.jpg",
+        "code": "andrew-shen",
+        "desc": "a partially examined life",
+        "socials": {
+            "github": "https://github.com/andrewshen",
+            "linkedin": "https://linkedin.com/in/aashen/",
+            "twitter": "https://twitter.com/andrewaashen",
+            "email": "mailto:andrewshen@gmail.com",
+            "facebook": "https://facebook.com/andrewshen7"
+        }
+    },
+    {
+        "name": "Anthony Scarpone-Lambert",
+        "image": "https://bellsociety.com/images/members/2021/anthony-scarpone-lambert.jpg",
+        "code": "anthony-scarpone-lambert",
+        "desc": "CEO of dancing in slippers",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/anthony-scarpone-lambert-669052138/",
+            "twitter": "https://twitter.com/anthonys_l",
+            "email": "mailto:antsl@nursing.upenn.edu",
+            "facebook": "https://facebook.com/anthony.scarponelambert"
+        }
+    },
+    {
+        "name": "Arun Kirubarajan",
+        "image": "https://bellsociety.com/images/members/2021/arun-kirubarajan.jpg",
+        "code": "arun-kirubarajan",
+        "desc": "Exploring and Exploiting",
+        "socials": {
+            "github": "https://github.com/kirubarajan",
+            "linkedin": "https://linkedin.com/in/arunkirubarajan/",
+            "twitter": "https://twitter.com/multiarmbandit_",
+            "email": "mailto:kiruba@cis.upenn.edu",
+            "facebook": "https://facebook.com/profile.php?id=100000462367840"
+        }
+    },
+    {
+        "name": "Chris Cherian",
+        "image": "https://bellsociety.com/images/members/2021/chris-cherian.jpg",
+        "code": "chris-cherian",
+        "desc": "bUsiNeSs siDe",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/christophercherian",
+            "twitter": "",
+            "email": "mailto:chrischerian@gmail.com",
+            "facebook": "https://facebook.com/chrischerryan"
+        }
+    },
+    {
+        "name": "Claudia Haddad",
+        "image": "https://bellsociety.com/images/members/2021/claudia-haddad.jpg",
+        "code": "claudia-haddad",
+        "desc": "fueled by novelty",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/cmhaddad",
+            "twitter": "",
+            "email": "mailto:claudhadd@gmail.com",
+            "facebook": "https://facebook.com/Claudiaa.haddad"
+        }
+    },
+    {
+        "name": "Coco Wang",
+        "image": "https://bellsociety.com/images/members/2021/coco-wang.jpg",
+        "code": "coco-wang",
+        "desc": "Aspiring Tik Tok Star",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/cocowenfeiwang/",
+            "twitter": "",
+            "email": "mailto:cwfwang@gmail.com",
+            "facebook": "https://facebook.com/coco.w.wang36"
+        }
+    },
+    {
+        "name": "Cristina Pogorevici",
+        "image": "https://bellsociety.com/images/members/2021/cristina-pogorevici.jpg",
+        "code": "cristina-pogorevici",
+        "desc": "Seeking & Embracing Discomfort",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/cristinapogo/",
+            "twitter": "",
+            "email": "mailto:cpogo@wharton.upenn.edu",
+            "facebook": "https://facebook.com/cristina.pogo"
+        }
+    },
+    {
+        "name": "Grant Brewster",
+        "image": "https://bellsociety.com/images/members/2021/grant-brewster.jpg",
+        "code": "grant-brewster",
+        "desc": "Build products that are too important to fail.",
+        "socials": {
+            "github": "https://github.com/https://github.com/grantbrewster",
+            "linkedin": "https://linkedin.com/in/grant-brewster-64229a58/",
+            "twitter": "",
+            "email": "mailto:gdbrewster@gmail.com",
+            "facebook": "https://facebook.com/grant.brewster.7"
+        }
+    },
+    {
+        "name": "Ivan Esmeral",
+        "image": "https://bellsociety.com/images/members/2021/ivan-esmeral.jpg",
+        "code": "ivan-esmeral",
+        "desc": "Don't claim hip hop if you only hop to what's hip",
+        "socials": {
+            "github": "https://github.com/https://github.com/ivanesmeral98",
+            "linkedin": "https://linkedin.com/in/ivan-esmeral-305a59121/",
+            "twitter": "https://twitter.com/Techsmeral",
+            "email": "mailto:ivanes@seas.upenn.edu",
+            "facebook": "https://facebook.com/ivan.esmeral.9"
+        }
+    },
+    {
+        "name": "Jelani Hutchins-Belgrave",
+        "image": "https://bellsociety.com/images/members/2021/jelani-hutchins-belgrave.jpg",
+        "code": "jelani-hutchins-belgrave",
+        "desc": "Shoot for the stars aim for the moooon x3",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/jhutchinsbelgrave",
+            "twitter": "https://twitter.com/jelanihb",
+            "email": "mailto:jelani@seas.upenn.edu",
+            "facebook": "https://facebook.com/jelani.hutchinsbelgrave"
+        }
+    },
+    {
+        "name": "Jeriann Gumila",
+        "image": "https://bellsociety.com/images/members/2021/jeriann-gumila.jpg",
+        "code": "jeriann-gumila",
+        "desc": "small but fierce",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/jeriann",
+            "twitter": "https://twitter.com/jeriann_gumila",
+            "email": "mailto:jeriann@wharton.upenn.edu",
+            "facebook": "https://facebook.com/jeriann.gumila.35"
+        }
+    },
+    {
+        "name": "Julie Chen",
+        "image": "https://bellsociety.com/images/members/2021/julie-chen.jpg",
+        "code": "julie-chen",
+        "desc": "try anything once",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/julie-li-chen/",
+            "twitter": "https://twitter.com/juliechentweets",
+            "email": "mailto:juliechen418@gmail.com",
+            "facebook": "https://facebook.com/julieechenn/"
+        }
+    },
+    {
+        "name": "Kathie Jin",
+        "image": "https://bellsociety.com/images/members/2021/kathie-jin.jpg",
+        "code": "kathie-jin",
+        "desc": "sheppard of guinea pigs",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/kathiejin/",
+            "twitter": "",
+            "email": "mailto:kathiejin@gmail.com",
+            "facebook": "https://facebook.com/kathie.jin.5/"
+        }
+    },
+    {
+        "name": "Katie Shia",
+        "image": "https://bellsociety.com/images/members/2021/katie-shia.jpg",
+        "code": "katie-shia",
+        "desc": "woohoo! yay!",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/katie-shia-2283a2154/",
+            "twitter": "",
+            "email": "mailto:katie.shia@gmail.com",
+            "facebook": "https://facebook.com/katie.shia/"
+        }
+    },
+    {
+        "name": "May Xiao",
+        "image": "https://bellsociety.com/images/members/2021/may-xiao.jpg",
+        "code": "may-xiao",
+        "desc": "we out here",
+        "socials": {
+            "github": "https://github.com/https://github.com/17maxiao",
+            "linkedin": "https://linkedin.com/in/mayxiao/",
+            "twitter": "",
+            "email": "mailto:mayx@seas.upenn.edu",
+            "facebook": "https://facebook.com/Mayx10"
+        }
+    },
+    {
+        "name": "Melisa Lee",
+        "image": "https://bellsociety.com/images/members/2021/melisa-lee.jpg",
+        "code": "melisa-lee",
+        "desc": "skipping the small talk",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/melisajlee/",
+            "twitter": "",
+            "email": "mailto:melisal@wharton.upenn.edu",
+            "facebook": "https://facebook.com/melisajlee"
+        }
+    },
+    {
+        "name": "Moksh Jawa",
+        "image": "https://bellsociety.com/images/members/2021/moksh-jawa.jpg",
+        "code": "moksh-jawa",
+        "desc": "Jawa Wawa",
+        "socials": {
+            "github": "https://github.com/https://github.com/mokshjawa",
+            "linkedin": "https://linkedin.com/in/mokshjawa/",
+            "twitter": "https://twitter.com/mokshjawa",
+            "email": "mailto:mokshjawa@gmail.com",
+            "facebook": "https://facebook.com/moksh.jawa"
+        }
+    },
+    {
+        "name": "Nabeel Farooqui",
+        "image": "https://bellsociety.com/images/members/2021/nabeel-farooqui.jpg",
+        "code": "nabeel-farooqui",
+        "desc": "still in beta",
+        "socials": {
+            "github": "https://github.com/https://github.com/nabeelf",
+            "linkedin": "https://linkedin.com/in/nabeel-f/",
+            "twitter": "https://twitter.com/nabeelornodeal",
+            "email": "mailto:nfarooqui99@gmail.com",
+            "facebook": "https://facebook.com/nabeelornodeal"
+        }
+    },
+    {
+        "name": "Natalia Acero",
+        "image": "https://bellsociety.com/images/members/2021/natalia-acero.jpg",
+        "code": "natalia-acero",
+        "desc": "Scoot scoot",
+        "socials": {
+            "github": "https://github.com/natyacero98",
+            "linkedin": "https://linkedin.com/in/natalia-acero-3450471b6/",
+            "twitter": "",
+            "email": "mailto:nacero@seas.upenn.edu",
+            "facebook": "https://facebook.com/natalia.acero.37"
+        }
+    },
+    {
+        "name": "Neil Gramopadhye",
+        "image": "https://bellsociety.com/images/members/2021/neil-gramopadhye.jpg",
+        "code": "neil-gramopadhye",
+        "desc": "chocolate milk enthusiast",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/neil-gramopadhye-709094147/",
+            "twitter": "",
+            "email": "mailto:neil.gramo@gmail.com",
+            "facebook": "https://facebook.com/neilgramo"
+        }
+    },
+    {
+        "name": "Nicholas Carrion Gomez",
+        "image": "https://bellsociety.com/images/members/2021/nicholas-carrion-gomez.jpg",
+        "code": "nicholas-carrion-gomez",
+        "desc": "Master at sleeping. Ok at coding.",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/nicholas-gomez-a3bb96158/",
+            "twitter": "https://twitter.com/Gomez11Nick",
+            "email": "mailto:ncgomez@seas.upenn.edu",
+            "facebook": "https://facebook.com/nickcg1"
+        }
+    },
+    {
+        "name": "Oliver Priebe",
+        "image": "https://bellsociety.com/images/members/2021/oliver-priebe.jpg",
+        "code": "oliver-priebe",
+        "desc": "harmoniously confused",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "mailto:olivercpriebe@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Ricky Pati",
+        "image": "https://bellsociety.com/images/members/2021/ricky-pati.jpg",
+        "code": "ricky-pati",
+        "desc": "shake & bake",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/ranjanrickypati/",
+            "twitter": "https://twitter.com/ricky_pati",
+            "email": "mailto:rpati@wharton.upenn.edu",
+            "facebook": "https://facebook.com/iloverickyp"
+        }
+    },
+    {
+        "name": "Ryan Pruitt",
+        "image": "https://bellsociety.com/images/members/2021/ryan-pruitt.jpg",
+        "code": "ryan-pruitt",
+        "desc": "do it with Pruitt",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/ryan-pruitt-225a3b10a/",
+            "twitter": "https://twitter.com/RyanPruitt_",
+            "email": "mailto:ryapru@wharton.upenn.edu",
+            "facebook": "https://facebook.com/ryan.pruitt.12935"
+        }
+    },
+    {
+        "name": "Saif Khawaja",
+        "image": "https://bellsociety.com/images/members/2021/saif-khawaja.jpg",
+        "code": "saif-khawaja",
+        "desc": "(leave blank)",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/saifnk/",
+            "twitter": "",
+            "email": "mailto:saifnk@wharton.upenn.edu",
+            "facebook": "https://facebook.com/saif.khawaja.37"
+        }
+    },
+    {
+        "name": "Samuel Pfrommer",
+        "image": "https://bellsociety.com/images/members/2021/samuel-pfrommer.jpg",
+        "code": "samuel-pfrommer",
+        "desc": "ambition ahead of adhesion",
+        "socials": {
+            "github": "https://github.com/https://github.com/spfrommer",
+            "linkedin": "https://linkedin.com/in/sampfrommer/",
+            "twitter": "",
+            "email": "mailto:sam.pfrommer@gmail.com",
+            "facebook": "https://facebook.com/samuel.pfrommer"
+        }
+    },
+    {
+        "name": "Selina Nie",
+        "image": "https://bellsociety.com/images/members/2021/selina-nie.jpg",
+        "code": "selina-nie",
+        "desc": "nap queen",
+        "socials": {
+            "github": "https://github.com/https://github.com/snie11",
+            "linkedin": "https://linkedin.com/in/selina-nie-8aa67a145/",
+            "twitter": "",
+            "email": "mailto:selinanie11@gmail.com",
+            "facebook": "https://facebook.com/selinanie"
+        }
+    },
+    {
+        "name": "Shriya Iyer",
+        "image": "https://bellsociety.com/images/members/2021/shriya-iyer.jpg",
+        "code": "shriya-iyer",
+        "desc": "CEO of oversharing",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/shriyaiyer/",
+            "twitter": "",
+            "email": "mailto:shriyai@wharton.upenn.edu",
+            "facebook": "https://facebook.com/shriya.iyer.395"
+        }
+    },
+    {
+        "name": "Sravya Alla",
+        "image": "https://bellsociety.com/images/members/2021/sravya-alla.jpg",
+        "code": "sravya-alla",
+        "desc": "it is what it is",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/sravyaalla/",
+            "twitter": "",
+            "email": "mailto:sravya@wharton.upenn.edu",
+            "facebook": "https://facebook.com/profile.php?id=100010496233312"
+        }
+    },
+    {
+        "name": "Yiwen Li",
+        "image": "https://bellsociety.com/images/members/2021/yiwen-li.jpg",
+        "code": "yiwen-li",
+        "desc": "don't think just do",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/yiwen-l-50a910a2/",
+            "twitter": "https://twitter.com/yiwen_li",
+            "email": "mailto:liyiwen@wharton.upenn.edu",
+            "facebook": ""
+        }
+    }
+]

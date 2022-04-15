@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Abhi Motgi",
+        "image": "https://bellsociety.com/images/members/2020/abhi-motgi.jpg",
+        "code": "abhi-motgi",
+        "desc": "talk data to me",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/abhi-motgi-778322aa",
+            "twitter": "",
+            "email": "mailto:apmotgi16@gmail.com",
+            "facebook": "https://facebook.com/abhi.motgi"
+        }
+    },
+    {
+        "name": "Alexandre Amice",
+        "image": "https://bellsociety.com/images/members/2020/alexandre-amice.jpg",
+        "code": "alexandre-amice",
+        "desc": "Everything is fancy addition",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/alexandre-amice-6ba400129",
+            "twitter": "",
+            "email": "mailto:amice@seas.upenn.edu",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Alice Deng",
+        "image": "https://bellsociety.com/images/members/2020/alice-deng.jpg",
+        "code": "alice-deng",
+        "desc": "yeeto cheeto",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/alicedeng97",
+            "twitter": "",
+            "email": "mailto:alice.deng97@gmail.com",
+            "facebook": "https://facebook.com/alicedeng97"
+        }
+    },
+    {
+        "name": "Angelica Du",
+        "image": "https://bellsociety.com/images/members/2020/angelica-du.jpg",
+        "code": "angelica-du",
+        "desc": "*struggling -- but in a fabulous outfit*",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/angelicadu",
+            "twitter": "",
+            "email": "mailto:duang@seas.upenn.edu",
+            "facebook": "https://facebook.com/geli.du"
+        }
+    },
+    {
+        "name": "Annie Su",
+        "image": "https://bellsociety.com/images/members/2020/annie-su.jpg",
+        "code": "annie-su",
+        "desc": "human bean",
+        "socials": {
+            "github": "https://github.com/anniesu1",
+            "linkedin": "https://linkedin.com/in/anniesu-1",
+            "twitter": "",
+            "email": "mailto:anniesumail@gmail.com",
+            "facebook": "https://facebook.com/anniesupoo"
+        }
+    },
+    {
+        "name": "Arnav Jagasia",
+        "image": "https://bellsociety.com/images/members/2020/arnav-jagasia.jpg",
+        "code": "arnav-jagasia",
+        "desc": "GovTech is the new black",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/arnavjagasia",
+            "twitter": "",
+            "email": "mailto:arnav.jagasia@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Azzam Al",
+        "image": "https://bellsociety.com/images/members/2020/azzam-al.jpg",
+        "code": "azzam-al",
+        "desc": "Learning new things every day",
+        "socials": {
+            "github": "https://github.com/azzamalthagafi",
+            "linkedin": "https://linkedin.com/in/azzamthagafi",
+            "twitter": "",
+            "email": "mailto:azzam.thagafi@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Calista Dominy",
+        "image": "https://bellsociety.com/images/members/2020/calista-dominy.jpg",
+        "code": "calista-dominy",
+        "desc": "just smile and wave, boys",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/calista-dominy-03008a10a",
+            "twitter": "",
+            "email": "mailto:cdominy@seas.upenn.edu",
+            "facebook": "https://facebook.com/calista.dominy"
+        }
+    },
+    {
+        "name": "Cameron Cabo",
+        "image": "https://bellsociety.com/images/members/2020/cameron-cabo.jpg",
+        "code": "cameron-cabo",
+        "desc": "caboose on the loose",
+        "socials": {
+            "github": "https://github.com/ccabo1",
+            "linkedin": "https://linkedin.com/in/cameroncabo",
+            "twitter": "https://twitter.com/cameroncabo",
+            "email": "mailto:cameroncabo@gmail.com",
+            "facebook": "https://facebook.com/cam.cabo"
+        }
+    },
+    {
+        "name": "Claire Donovan",
+        "image": "https://bellsociety.com/images/members/2020/claire-donovan.jpg",
+        "code": "claire-donovan",
+        "desc": "student of wumbology",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/cldon/",
+            "twitter": "",
+            "email": "mailto:c.donovan605@gmail.com",
+            "facebook": "https://facebook.com/claire.donovan.605"
+        }
+    },
+    {
+        "name": "Dominic Holmes",
+        "image": "https://bellsociety.com/images/members/2020/dominic-holmes.jpg",
+        "code": "dominic-holmes",
+        "desc": "forbes 30 under 30 media luminary",
+        "socials": {
+            "github": "https://github.com/DominicHolmes",
+            "linkedin": "https://linkedin.com/in/dominic-holmes-21b612133/",
+            "twitter": "",
+            "email": "mailto:hello@dominic.land",
+            "facebook": "https://facebook.com/dominicfholmes"
+        }
+    },
+    {
+        "name": "Ella Bei",
+        "image": "https://bellsociety.com/images/members/2020/ella-bei.jpg",
+        "code": "ella-bei",
+        "desc": "cyburban",
+        "socials": {
+            "github": "https://github.com/synditrix",
+            "linkedin": "https://linkedin.com/in/ellabei/",
+            "twitter": "",
+            "email": "mailto:me@ella.wiki",
+            "facebook": "https://facebook.com/Synditrix"
+        }
+    },
+    {
+        "name": "Emily Tan",
+        "image": "https://bellsociety.com/images/members/2020/emily-tan.jpg",
+        "code": "emily-tan",
+        "desc": "chill out d00ds",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/emilytan98",
+            "twitter": "",
+            "email": "mailto:emilyqingtan@gmail.com",
+            "facebook": "https://facebook.com/emily.tan.37"
+        }
+    },
+    {
+        "name": "Griffin Fitzsimmons",
+        "image": "https://bellsociety.com/images/members/2020/griffin-fitzsimmons.jpg",
+        "code": "griffin-fitzsimmons",
+        "desc": "percolating, actualizing",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/griffin-fitzsimmons",
+            "twitter": "https://twitter.com/fff_at_work",
+            "email": "mailto:griffin1024@gmail.com",
+            "facebook": "https://facebook.com/griff.fitz"
+        }
+    },
+    {
+        "name": "Jacob Beckerman",
+        "image": "https://bellsociety.com/images/members/2020/jacob-beckerman.jpg",
+        "code": "jacob-beckerman",
+        "desc": "Bayesian",
+        "socials": {
+            "github": "https://github.com/jbecke",
+            "linkedin": "https://linkedin.com/in/jacob-beckerman-aa018b114",
+            "twitter": "https://twitter.com/j_becke",
+            "email": "mailto:jacob.beckerman@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Jordan Lei",
+        "image": "https://bellsociety.com/images/members/2020/jordan-lei.jpg",
+        "code": "jordan-lei",
+        "desc": "Going against the gradient",
+        "socials": {
+            "github": "https://github.com/jordanlei",
+            "linkedin": "https://linkedin.com/in/jordan-lei-782890130/",
+            "twitter": "",
+            "email": "mailto:jordanlei.work@gmail.com",
+            "facebook": "https://facebook.com/jordan.lei.77"
+        }
+    },
+    {
+        "name": "Kameron Hypolite",
+        "image": "https://bellsociety.com/images/members/2020/kameron-hypolite.jpg",
+        "code": "kameron-hypolite",
+        "desc": "Obsessed with life",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/kameron-hypolite/",
+            "twitter": "",
+            "email": "mailto:kameronhypolite@gmail.com",
+            "facebook": "https://facebook.com/kamhypolite"
+        }
+    },
+    {
+        "name": "Luke Yeagley",
+        "image": "https://bellsociety.com/images/members/2020/luke-yeagley.jpg",
+        "code": "luke-yeagley",
+        "desc": "Foji dina drommar aven om de verkar vardelosa",
+        "socials": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "email": "",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Maghnus Mareneck",
+        "image": "https://bellsociety.com/images/members/2020/maghnus-mareneck.jpg",
+        "code": "maghnus-mareneck",
+        "desc": "Fool",
+        "socials": {
+            "github": "https://github.com/maghnusm",
+            "linkedin": "https://linkedin.com/in/maghnusmareneck",
+            "twitter": "",
+            "email": "mailto:me@maghn.us",
+            "facebook": "https://facebook.com/maghnus.mareneck"
+        }
+    },
+    {
+        "name": "Melinda Hu",
+        "image": "https://bellsociety.com/images/members/2020/melinda-hu.jpg",
+        "code": "melinda-hu",
+        "desc": "who run the world (girls)",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/melindahu5",
+            "twitter": "",
+            "email": "mailto:hmelinda@wharton.upenn.edu",
+            "facebook": "https://facebook.com/melinda.hu"
+        }
+    },
+    {
+        "name": "Nate Rush",
+        "image": "https://bellsociety.com/images/members/2020/nate-rush.jpg",
+        "code": "nate-rush",
+        "desc": "a node in the network",
+        "socials": {
+            "github": "https://github.com/naterush",
+            "linkedin": "https://linkedin.com/in/nate-rush-045357b8",
+            "twitter": "https://twitter.com/naterush1997?lang=en",
+            "email": "mailto:narush@wharton.upenn.edu",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Nihar Patil",
+        "image": "https://bellsociety.com/images/members/2020/nihar-patil.jpg",
+        "code": "nihar-patil",
+        "desc": "Jack of a few trades",
+        "socials": {
+            "github": "https://github.com/niharpatil",
+            "linkedin": "https://linkedin.com/in/niharpatil/",
+            "twitter": "",
+            "email": "mailto:niharp@seas.upenn.edu",
+            "facebook": "https://facebook.com/nihar.patil.986"
+        }
+    },
+    {
+        "name": "Qi Linzhi",
+        "image": "https://bellsociety.com/images/members/2020/qi-linzhi.jpg",
+        "code": "qi-linzhi",
+        "desc": "comfortably dumb",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/qi-linzhi",
+            "twitter": "https://twitter.com/LinzhiQ",
+            "email": "mailto:hi@qlz.io",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Sanjit Kalapatapu",
+        "image": "https://bellsociety.com/images/members/2020/sanjit-kalapatapu.jpg",
+        "code": "sanjit-kalapatapu",
+        "desc": "life is a good milkshake",
+        "socials": {
+            "github": "https://github.com/sanjitkal",
+            "linkedin": "https://linkedin.com/in/sanjit-kalapatapu-5b0a60126/",
+            "twitter": "",
+            "email": "mailto:sanjitkal@gmail.com",
+            "facebook": "https://facebook.com/sanjit.kalapatapu"
+        }
+    },
+    {
+        "name": "Seyoung Kim",
+        "image": "https://bellsociety.com/images/members/2020/seyoung-kim.jpg",
+        "code": "seyoung-kim",
+        "desc": ":o",
+        "socials": {
+            "github": "https://github.com/seyoungjkim",
+            "linkedin": "https://linkedin.com/in/seyoungjkim",
+            "twitter": "",
+            "email": "mailto:seyoungjkim@gmail.com",
+            "facebook": ""
+        }
+    },
+    {
+        "name": "Sitara Shirol",
+        "image": "https://bellsociety.com/images/members/2020/sitara-shirol.jpg",
+        "code": "sitara-shirol",
+        "desc": "keep it simple",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/sitara-shirol-484b27127/",
+            "twitter": "",
+            "email": "mailto:sitarashirol@gmail.com",
+            "facebook": "https://facebook.com/profile.php?id=100011698027664"
+        }
+    },
+    {
+        "name": "Siyuan Liu",
+        "image": "https://bellsociety.com/images/members/2020/siyuan-liu.jpg",
+        "code": "siyuan-liu",
+        "desc": "self care, code style, and social justice",
+        "socials": {
+            "github": "https://github.com/lius2020",
+            "linkedin": "https://linkedin.com/in/siyuan-liu-a0806312b",
+            "twitter": "",
+            "email": "mailto:siyuanliu2016@gmail.com",
+            "facebook": "https://facebook.com/ssssssiyuan"
+        }
+    },
+    {
+        "name": "Somil Govani",
+        "image": "https://bellsociety.com/images/members/2020/somil-govani.jpg",
+        "code": "somil-govani",
+        "desc": "Don't trust atoms- they make everything up",
+        "socials": {
+            "github": "https://github.com/somilgo",
+            "linkedin": "https://linkedin.com/in/somilgo",
+            "twitter": "",
+            "email": "mailto:somilgo@seas.upenn.edu",
+            "facebook": "https://facebook.com/somilgovani"
+        }
+    },
+    {
+        "name": "Vera Lee",
+        "image": "https://bellsociety.com/images/members/2020/vera-lee.jpg",
+        "code": "vera-lee",
+        "desc": "just a little-stitious",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/vera-lee",
+            "twitter": "",
+            "email": "mailto:veralee98@gmail.com",
+            "facebook": "https://facebook.com/vera.g.lee8"
+        }
+    },
+    {
+        "name": "Wil Yoo",
+        "image": "https://bellsociety.com/images/members/2020/wil-yoo.jpg",
+        "code": "wil-yoo",
+        "desc": "welcome to my chocolate factory",
+        "socials": {
+            "github": "",
+            "linkedin": "https://linkedin.com/in/willyoo42",
+            "twitter": "",
+            "email": "mailto:willyoo@wharton.upenn.edu",
+            "facebook": ""
+        }
+    }
+]

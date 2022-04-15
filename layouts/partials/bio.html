@@ -21,10 +21,6 @@
 </style>
 <div class="bio-bio">
 <img class="bio-img" src="{{.Params.image}}" />
-
-{{ $pennkey := index .Params.email 0 }}
-{{ $subdomain := index .Params.email 1 }}
 <b>{{.Params.name}}</b>
-<span>(<a href="mailto:{{ $pennkey }}@{{ $subdomain }}.upenn.edu">{{ $pennkey }}@{{ $subdomain }}</a>)</span>
 <div style="width: 200px">{{ .Content }}</div>
 </div>

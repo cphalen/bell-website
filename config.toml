@@ -15,7 +15,7 @@ theme = "LoveIt"
 [menu]
   [[menu.main]]
     identifier = "honorary"
-    name = "Honorary"
+    name = "honorary"
     url = "/honorary/"
     title = ""
     weight = 0
