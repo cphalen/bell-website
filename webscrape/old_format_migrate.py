@@ -20,8 +20,8 @@ with open(f"./old_data/2022.csv") as file_in:
                     file_out.write(f"github: \"https://github.com/{row[7]}\"\n")
                 if row[5]  !="":
                     file_out.write(f"twitter: \"https://twitter.com/{row[5]}\"\n")
-                if row[4]  != "":
-                    file_out.write(f"linkedin: \"https://www.linkedin.com/in/{row[4]}\"\n")
+                if row[9]  != "":
+                    file_out.write(f"linkedin: \"https://www.linkedin.com/in/{row[9]}\"\n")
                 if row[6]  != "":
                     file_out.write(f"facebook: \"https://www.facebook.com/{row[6]}\"\n")
                 file_out.write("---\n")
