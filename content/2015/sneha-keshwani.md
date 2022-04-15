@@ -1,8 +1,9 @@
 ---
 name: "Sneha Keshwani"
+class: "2015"
 image: "https://bellsociety.com/images/members/2015/sneha-keshwani.jpg"
 email: "mailto:snehakeshwani@gmail.com"
-code: "sneha-keshwani"
+slug: "sneha-keshwani"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/snehakeshwani"

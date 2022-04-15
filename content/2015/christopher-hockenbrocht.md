@@ -1,8 +1,9 @@
 ---
 name: "Christopher Hockenbrocht"
+class: "2015"
 image: "https://bellsociety.com/images/members/2015/christopher-hockenbrocht.jpg"
 email: "mailto:chockenbrocht@gmail.com"
-code: "christopher-hockenbrocht"
+slug: "christopher-hockenbrocht"
 github: "https://github.com/chalkandpaste"
 twitter: ""
 linkedin: ""

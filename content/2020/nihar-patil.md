@@ -1,8 +1,9 @@
 ---
 name: "Nihar Patil"
+class: "2020"
 image: "https://bellsociety.com/images/members/2020/nihar-patil.jpg"
 email: "mailto:niharp@seas.upenn.edu"
-code: "nihar-patil"
+slug: "nihar-patil"
 github: "https://github.com/niharpatil"
 twitter: ""
 linkedin: "https://linkedin.com/in/niharpatil/"

@@ -1,8 +1,9 @@
 ---
 name: "Slava Rubin"
+class: "honorary"
 image: "https://bellsociety.com/images/members/Honorary/slava-rubin.jpg"
 email: ""
-code: "slava-rubin"
+slug: "slava-rubin"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/indieslava"

@@ -1,8 +1,9 @@
 ---
 name: "Julia Wang"
+class: "2018"
 image: "https://bellsociety.com/images/members/2018/julia-wang.jpg"
 email: "mailto:juliawngg@gmail.com"
-code: "julia-wang"
+slug: "julia-wang"
 github: ""
 twitter: "https://twitter.com/julia_wng"
 linkedin: "https://linkedin.com/in/juliawng"

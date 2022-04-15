@@ -1,8 +1,9 @@
 ---
 name: "Matt Wachter"
+class: "2018"
 image: "https://bellsociety.com/images/members/2018/matt-wachter.jpg"
 email: "mailto:matthewwachter1@gmail.com"
-code: "matt-wachter"
+slug: "matt-wachter"
 github: ""
 twitter: "https://twitter.com/MatthewWachter1"
 linkedin: ""

@@ -1,8 +1,9 @@
 ---
 name: "Matt Wolfman"
+class: "2019"
 image: "https://bellsociety.com/images/members/2019/matt-wolfman.jpg"
 email: "mailto:wolfman701@gmail.com"
-code: "matt-wolfman"
+slug: "matt-wolfman"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/matthew-wolfman-7368738a"

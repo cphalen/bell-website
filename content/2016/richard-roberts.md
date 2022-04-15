@@ -1,8 +1,9 @@
 ---
 name: "Richard Roberts"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/richard-roberts.jpg"
 email: "mailto:rrobertsdev@gmail.com"
-code: "richard-roberts"
+slug: "richard-roberts"
 github: "https://github.com/rrobertsdev"
 twitter: "https://twitter.com/stack__trace"
 linkedin: ""

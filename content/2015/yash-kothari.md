@@ -1,8 +1,9 @@
 ---
 name: "Yash Kothari"
+class: "2015"
 image: "https://bellsociety.com/images/members/2015/yash-kothari.jpg"
 email: "mailto:kothari.s.yash@gmail.com"
-code: "yash-kothari"
+slug: "yash-kothari"
 github: ""
 twitter: "https://twitter.com/yashkothari"
 linkedin: "https://linkedin.com/in/kothariy"

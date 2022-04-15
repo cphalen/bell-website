@@ -1,8 +1,9 @@
 ---
 name: "Stephanie Tang"
+class: "2019"
 image: "https://bellsociety.com/images/members/2019/stephanie-tang.jpg"
 email: "mailto:stephaniestang97@gmail.com"
-code: "stephanie-tang"
+slug: "stephanie-tang"
 github: "https://github.com/steptang"
 twitter: ""
 linkedin: "https://linkedin.com/in/stephanie-tang-b3b132b0"

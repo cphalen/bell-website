@@ -1,8 +1,9 @@
 ---
 name: "Josh Kopelman"
+class: "honorary"
 image: "https://bellsociety.com/images/members/Honorary/josh-kopelman.jpg"
 email: ""
-code: "josh-kopelman"
+slug: "josh-kopelman"
 github: ""
 twitter: "https://twitter.com/joshk"
 linkedin: "https://linkedin.com/in/jkopelman"

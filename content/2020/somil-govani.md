@@ -1,8 +1,9 @@
 ---
 name: "Somil Govani"
+class: "2020"
 image: "https://bellsociety.com/images/members/2020/somil-govani.jpg"
 email: "mailto:somilgo@seas.upenn.edu"
-code: "somil-govani"
+slug: "somil-govani"
 github: "https://github.com/somilgo"
 twitter: ""
 linkedin: "https://linkedin.com/in/somilgo"

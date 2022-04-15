@@ -1,8 +1,9 @@
 ---
 name: "Annie Su"
+class: "2020"
 image: "https://bellsociety.com/images/members/2020/annie-su.jpg"
 email: "mailto:anniesumail@gmail.com"
-code: "annie-su"
+slug: "annie-su"
 github: "https://github.com/anniesu1"
 twitter: ""
 linkedin: "https://linkedin.com/in/anniesu-1"

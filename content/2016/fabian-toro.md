@@ -1,8 +1,9 @@
 ---
 name: "Fabian Toro"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/fabian-toro.jpg"
 email: ""
-code: "fabian-toro"
+slug: "fabian-toro"
 github: ""
 twitter: ""
 linkedin: ""

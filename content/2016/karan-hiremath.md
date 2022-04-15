@@ -1,8 +1,9 @@
 ---
 name: "Karan Hiremath"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/karan-hiremath.jpg"
 email: "mailto:karan.hiremath@gmail.com"
-code: "karan-hiremath"
+slug: "karan-hiremath"
 github: "https://github.com/karanhiremath"
 twitter: "https://twitter.com/karan_hiremath"
 linkedin: "https://linkedin.com/in/karanhir"

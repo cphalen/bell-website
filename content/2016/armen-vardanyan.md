@@ -1,8 +1,9 @@
 ---
 name: "Armen Vardanyan"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/armen-vardanyan.jpg"
 email: "mailto:vaarmen94@gmail.com"
-code: "armen-vardanyan"
+slug: "armen-vardanyan"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/vaarmen"

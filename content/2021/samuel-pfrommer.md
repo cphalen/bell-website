@@ -1,8 +1,9 @@
 ---
 name: "Samuel Pfrommer"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/samuel-pfrommer.jpg"
 email: "mailto:sam.pfrommer@gmail.com"
-code: "samuel-pfrommer"
+slug: "samuel-pfrommer"
 github: "https://github.com/https://github.com/spfrommer"
 twitter: ""
 linkedin: "https://linkedin.com/in/sampfrommer/"

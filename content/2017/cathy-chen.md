@@ -1,8 +1,9 @@
 ---
 name: "Cathy Chen"
+class: "2017"
 image: "https://bellsociety.com/images/members/2017/cathy-chen.jpg"
 email: "mailto:cathykaichen@gmail.com"
-code: "cathy-chen"
+slug: "cathy-chen"
 github: "https://github.com/cathychen95"
 twitter: ""
 linkedin: "https://linkedin.com/in/cathy-chen-41b88462"

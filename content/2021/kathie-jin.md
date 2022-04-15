@@ -1,8 +1,9 @@
 ---
 name: "Kathie Jin"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/kathie-jin.jpg"
 email: "mailto:kathiejin@gmail.com"
-code: "kathie-jin"
+slug: "kathie-jin"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/kathiejin/"

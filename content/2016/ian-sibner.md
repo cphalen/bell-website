@@ -1,8 +1,9 @@
 ---
 name: "Ian Sibner"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/ian-sibner.jpg"
 email: "mailto:sibnerian@gmail.com"
-code: "ian-sibner"
+slug: "ian-sibner"
 github: "https://github.com/sibnerian"
 twitter: "https://twitter.com/eon_cyber"
 linkedin: "https://linkedin.com/in/sibnerian"

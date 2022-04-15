@@ -1,8 +1,9 @@
 ---
 name: "James Stine"
+class: "2014"
 image: "https://bellsociety.com/images/members/2014/james-stine.jpg"
 email: "mailto:jamesrichardstine@gmail.com"
-code: "james-stine"
+slug: "james-stine"
 github: ""
 twitter: "https://twitter.com/JamesRStine"
 linkedin: "https://linkedin.com/in/jamesstine"

@@ -1,8 +1,9 @@
 ---
 name: "Sitara Shirol"
+class: "2020"
 image: "https://bellsociety.com/images/members/2020/sitara-shirol.jpg"
 email: "mailto:sitarashirol@gmail.com"
-code: "sitara-shirol"
+slug: "sitara-shirol"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/sitara-shirol-484b27127/"

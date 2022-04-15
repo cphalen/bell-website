@@ -1,8 +1,9 @@
 ---
 name: "Coco Wang"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/coco-wang.jpg"
 email: "mailto:cwfwang@gmail.com"
-code: "coco-wang"
+slug: "coco-wang"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/cocowenfeiwang/"

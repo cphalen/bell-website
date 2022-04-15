@@ -1,8 +1,9 @@
 ---
 name: "Sravya Alla"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/sravya-alla.jpg"
 email: "mailto:sravya@wharton.upenn.edu"
-code: "sravya-alla"
+slug: "sravya-alla"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/sravyaalla/"

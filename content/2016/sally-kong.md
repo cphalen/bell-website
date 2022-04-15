@@ -1,8 +1,9 @@
 ---
 name: "Sally Kong"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/sally-kong.jpg"
 email: "mailto:kongsally94@gmail.com"
-code: "sally-kong"
+slug: "sally-kong"
 github: "https://github.com/kongsally"
 twitter: ""
 linkedin: "https://linkedin.com/in/kongsally"

@@ -1,8 +1,9 @@
 ---
 name: "Pranav Reddy"
+class: "2019"
 image: "https://bellsociety.com/images/members/2019/pranav-reddy.jpg"
 email: "mailto:pgreddy97@gmail.com"
-code: "pranav-reddy"
+slug: "pranav-reddy"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/pranavgreddy"

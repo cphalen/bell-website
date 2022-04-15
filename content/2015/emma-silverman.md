@@ -1,8 +1,9 @@
 ---
 name: "Emma Silverman"
+class: "2015"
 image: "https://bellsociety.com/images/members/2015/emma-silverman.jpg"
 email: "mailto:silvermanemma92@gmail.com"
-code: "emma-silverman"
+slug: "emma-silverman"
 github: ""
 twitter: "https://twitter.com/emmacsilverman"
 linkedin: ""

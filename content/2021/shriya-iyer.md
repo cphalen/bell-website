@@ -1,8 +1,9 @@
 ---
 name: "Shriya Iyer"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/shriya-iyer.jpg"
 email: "mailto:shriyai@wharton.upenn.edu"
-code: "shriya-iyer"
+slug: "shriya-iyer"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/shriyaiyer/"

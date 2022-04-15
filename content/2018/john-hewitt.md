@@ -1,8 +1,9 @@
 ---
 name: "John Hewitt"
+class: "2018"
 image: "https://bellsociety.com/images/members/2018/john-hewitt.jpg"
 email: "mailto:john.hewitt64@gmail.com"
-code: "john-hewitt"
+slug: "john-hewitt"
 github: "https://github.com/john-hewitt"
 twitter: ""
 linkedin: ""

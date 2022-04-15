@@ -1,8 +1,9 @@
 ---
 name: "Joshua Ryan"
+class: "2017"
 image: "https://bellsociety.com/images/members/2017/joshua-ryan.jpg"
 email: "mailto:joshryan11@gmail.com"
-code: "joshua-ryan"
+slug: "joshua-ryan"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/jryan11"

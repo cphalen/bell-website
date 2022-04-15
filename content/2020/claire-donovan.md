@@ -1,8 +1,9 @@
 ---
 name: "Claire Donovan"
+class: "2020"
 image: "https://bellsociety.com/images/members/2020/claire-donovan.jpg"
 email: "mailto:c.donovan605@gmail.com"
-code: "claire-donovan"
+slug: "claire-donovan"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/cldon/"

@@ -1,8 +1,9 @@
 ---
 name: "Bill He"
+class: "2018"
 image: "https://bellsociety.com/images/members/2018/bill-he.jpg"
 email: "mailto:billhebillhe@gmail.com"
-code: "bill-he"
+slug: "bill-he"
 github: "https://github.com/bill-he"
 twitter: ""
 linkedin: "https://linkedin.com/in/bill-he-43a00994"

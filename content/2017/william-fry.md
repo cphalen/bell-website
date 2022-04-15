@@ -1,8 +1,9 @@
 ---
 name: "William Fry"
+class: "2017"
 image: "https://bellsociety.com/images/members/2017/william-fry.jpg"
 email: "mailto:wrfry95@gmail.com"
-code: "william-fry"
+slug: "william-fry"
 github: "https://github.com/Audace"
 twitter: "https://twitter.com/williamrfry"
 linkedin: "https://linkedin.com/in/fryw95"

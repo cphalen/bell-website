@@ -1,8 +1,9 @@
 ---
 name: "Moksh Jawa"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/moksh-jawa.jpg"
 email: "mailto:mokshjawa@gmail.com"
-code: "moksh-jawa"
+slug: "moksh-jawa"
 github: "https://github.com/https://github.com/mokshjawa"
 twitter: "https://twitter.com/mokshjawa"
 linkedin: "https://linkedin.com/in/mokshjawa/"

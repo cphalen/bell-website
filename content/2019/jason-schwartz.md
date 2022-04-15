@@ -1,8 +1,9 @@
 ---
 name: "Jason Schwartz"
+class: "2019"
 image: "https://bellsociety.com/images/members/2019/jason-schwartz.jpg"
 email: "mailto:jschwartz221@gmail.com"
-code: "jason-schwartz"
+slug: "jason-schwartz"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/jason-schwartz"

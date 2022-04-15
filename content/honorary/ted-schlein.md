@@ -1,8 +1,9 @@
 ---
 name: "Ted Schlein"
+class: "honorary"
 image: "https://bellsociety.com/images/members/Honorary/ted-schlein.jpg"
 email: ""
-code: "ted-schlein"
+slug: "ted-schlein"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/ted-schlein-5630184b"

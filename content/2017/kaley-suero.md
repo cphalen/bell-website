@@ -1,8 +1,9 @@
 ---
 name: "Kaley Suero"
+class: "2017"
 image: "https://bellsociety.com/images/members/2017/kaley-suero.jpg"
 email: "mailto:kaleysuero@gmail.com"
-code: "kaley-suero"
+slug: "kaley-suero"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/kaleysuero"

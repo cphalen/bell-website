@@ -1,8 +1,9 @@
 ---
 name: "Luke Yeagley"
+class: "2020"
 image: "https://bellsociety.com/images/members/2020/luke-yeagley.jpg"
 email: ""
-code: "luke-yeagley"
+slug: "luke-yeagley"
 github: ""
 twitter: ""
 linkedin: ""

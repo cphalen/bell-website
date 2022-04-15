@@ -16,11 +16,45 @@
 .bio-img {
   width: 150px;
   height: 150px;
-  border-radius: 5px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  box-sizing: border-box;
 }
 </style>
 <div class="bio-bio">
-<img class="bio-img" src="{{.Params.image}}" />
-<b>{{.Params.name}}</b>
+  {{ if .Params.image }}
+  <img class="bio-img" src="/img/{{ .Params.class }}/{{ .Params.slug }}.jpg" background-image="url(/img/ag_bell_noob.jpg)" onerror="this.onerror=null; this.src='/img/ag_bell_noob.jpg'" sizes="96px" height="150px" width="150px">
+  {{ else }}
+  <img class="bio-img" src="/img/ag_bell_noob.jpg" />
+  {{ end }}
+  <b>{{.Params.name}}</b>
+
+  <div class="links">
+
+    {{ if .Params.linkedin }}
+    <a href="{{ .Params.linkedin }}" title="linkedin" target="_blank" rel="noopener noreffer me"><i class="fab fa-linkedin fa-fw"></i></a>
+    {{ end }}
+
+    {{ if .Params.github }}
+    <a href="{{ .Params.github }}" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a>
+    {{ end }}
+
+    {{ if .Params.facebook }}
+    <a href="{{ .Params.email }}" title="Email" rel="me"><i class="far fa-envelope fa-fw"></i></a>
+    {{ end }}
+
+    {{ if .Params.facebook }}
+    <a href="{{ .Params.facebook }}" title="facebook" target="_blank" rel="noopener noreffer me"><i class="fab fa-facebook fa-fw"></i></a>
+    {{ end }}
+
+    {{ if .Params.twitter }}
+    <a href="{{ .Params.twitter }}" title="twitter" target="_blank" rel="noopener noreffer me"><i class="fab fa-twitter fa-fw"></i></a>
+    {{ end }}
+  
+  
+</div>
 <div style="width: 200px">{{ .Content }}</div>
 </div>

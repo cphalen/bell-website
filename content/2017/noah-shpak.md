@@ -1,8 +1,9 @@
 ---
 name: "Noah Shpak"
+class: "2017"
 image: "https://bellsociety.com/images/members/2017/noah-shpak.jpg"
 email: "mailto:noah@shpakee.com"
-code: "noah-shpak"
+slug: "noah-shpak"
 github: "https://github.com/noahshapk"
 twitter: ""
 linkedin: "https://linkedin.com/in/noahshpak"

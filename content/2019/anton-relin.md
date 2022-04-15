@@ -1,8 +1,9 @@
 ---
 name: "Anton Relin"
+class: "2019"
 image: "https://bellsociety.com/images/members/2019/anton-relin.jpg"
 email: ""
-code: "anton-relin"
+slug: "anton-relin"
 github: "https://github.com/relisher"
 twitter: ""
 linkedin: ""

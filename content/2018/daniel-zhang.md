@@ -1,8 +1,9 @@
 ---
 name: "Daniel Zhang"
+class: "2018"
 image: "https://bellsociety.com/images/members/2018/daniel-zhang.jpg"
 email: "mailto:dzhang55@gmail.com"
-code: "daniel-zhang"
+slug: "daniel-zhang"
 github: "https://github.com/dzhang55"
 twitter: ""
 linkedin: "https://linkedin.com/in/danielzhang55"

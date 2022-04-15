@@ -1,8 +1,9 @@
 ---
 name: "AJ Nandi"
+class: "2017"
 image: "https://bellsociety.com/images/members/2017/aj-nandi.jpg"
 email: "mailto:ajnandi@gmail.com"
-code: "aj-nandi"
+slug: "aj-nandi"
 github: ""
 twitter: "https://twitter.com/AJNandi"
 linkedin: "https://linkedin.com/in/ajnandi"

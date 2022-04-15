@@ -1,8 +1,9 @@
 ---
 name: "Audrey Harnagel"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/audrey-harnagel.jpg"
 email: "mailto:aeharnagel@gmail.com"
-code: "audrey-harnagel"
+slug: "audrey-harnagel"
 github: ""
 twitter: ""
 linkedin: ""

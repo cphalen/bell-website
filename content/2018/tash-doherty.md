@@ -1,8 +1,9 @@
 ---
 name: "Tash Doherty"
+class: "2018"
 image: "https://bellsociety.com/images/members/2018/tash-doherty.jpg"
 email: "mailto:natashardoherty@gmail.com"
-code: "tash-doherty"
+slug: "tash-doherty"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/ndoherty1"

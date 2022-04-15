@@ -1,8 +1,9 @@
 ---
 name: "Paige Willoughby"
+class: "2014"
 image: "https://bellsociety.com/images/members/2014/paige-willoughby.jpg"
 email: "mailto:pwilloughby7888@gmail.com"
-code: "paige-willoughby"
+slug: "paige-willoughby"
 github: ""
 twitter: "https://twitter.com/paigenicole7888"
 linkedin: "https://linkedin.com/in/paige-willoughby"

@@ -1,8 +1,9 @@
 ---
 name: "Ivan Esmeral"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/ivan-esmeral.jpg"
 email: "mailto:ivanes@seas.upenn.edu"
-code: "ivan-esmeral"
+slug: "ivan-esmeral"
 github: "https://github.com/https://github.com/ivanesmeral98"
 twitter: "https://twitter.com/Techsmeral"
 linkedin: "https://linkedin.com/in/ivan-esmeral-305a59121/"

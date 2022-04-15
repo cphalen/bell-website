@@ -3,10 +3,21 @@
 {{- end -}}
 
 {{- define "content" -}}
+<style>
+.section-title {
+    text-align: center;
+    padding-top: 30px;
+}
+ </style>
+
+
+
     <div class="page archive">
-        <h1>Bell {{.Section}} Members</h1>
+        <h1 class="section-title">Bell {{.Section}} Members</h1>
+        <hr padding = "10px">
         <br></br>
-        <div style="display: flex; flex-direction: row; justify-content: center;">
+        
+        <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap;">
             {{ range .Pages }}
 
                 {{ partial "bio.html" .}}
@@ -15,3 +26,5 @@
         </div>
     </div>
 {{- end -}}
+
+

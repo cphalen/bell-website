@@ -1,8 +1,9 @@
 ---
 name: "Alina Wong"
+class: "2016"
 image: "https://bellsociety.com/images/members/2016/alina-wong.jpg"
 email: "mailto:alinawong123@gmail.com"
-code: "alina-wong"
+slug: "alina-wong"
 github: ""
 twitter: "https://twitter.com/alinaw123"
 linkedin: ""

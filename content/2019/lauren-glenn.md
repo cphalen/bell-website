@@ -1,8 +1,9 @@
 ---
 name: "Lauren Glenn"
+class: "2019"
 image: "https://bellsociety.com/images/members/2019/lauren-glenn.jpg"
 email: "mailto:mikaela.glenn@gmail.com"
-code: "lauren-glenn"
+slug: "lauren-glenn"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/lauren-mikaela-glenn-a1503612b"

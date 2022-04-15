@@ -1,8 +1,9 @@
 ---
 name: "Saif Khawaja"
+class: "2021"
 image: "https://bellsociety.com/images/members/2021/saif-khawaja.jpg"
 email: "mailto:saifnk@wharton.upenn.edu"
-code: "saif-khawaja"
+slug: "saif-khawaja"
 github: ""
 twitter: ""
 linkedin: "https://linkedin.com/in/saifnk/"

@@ -1,8 +1,9 @@
 ---
 name: "Potluck Mittal"
+class: "2014"
 image: "https://bellsociety.com/images/members/2014/potluck-mittal.jpg"
 email: "mailto:callmepotluck@gmail.com"
-code: "potluck-mittal"
+slug: "potluck-mittal"
 github: ""
 twitter: "https://twitter.com/callmepotluck"
 linkedin: "https://linkedin.com/in/potluck"
