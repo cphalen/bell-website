@@ -26,9 +26,9 @@
 </style>
 <div class="bio-bio">
   {{ if .Params.image }}
-  <img class="bio-img" src="/img/{{ .Params.class }}/{{ .Params.slug }}.jpg" background-image="url(/img/ag_bell_noob.jpg)" onerror="this.onerror=null; this.src='/img/ag_bell_noob.jpg'" sizes="96px" height="150px" width="150px">
+  <img class="bio-img" loading="lazy" src="/img/{{ .Params.class }}/{{ .Params.slug }}.jpg" background-image="url(/img/ag_bell_noob.jpg)" onerror="this.onerror=null; this.src='/img/ag_bell_noob.jpg'" sizes="96px" height="150px" width="150px">
   {{ else }}
-  <img class="bio-img" src="/img/ag_bell_noob.jpg" />
+  <img class="bio-img" loading="lazy" src="/img/ag_bell_noob.jpg" />
   {{ end }}
   <b>{{.Params.name}}</b>
 
