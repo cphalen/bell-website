@@ -56,5 +56,8 @@
   
   
 </div>
-<div style="width: 200px">{{ .Content }}</div>
+{{ if .Params.boardPosition }}
+<div class="board" style="font-weight:bold">{{ .Params.boardPosition }}</div>
+{{ end }}
+<div class="bio" style="width: 200px">{{ .Content }}</div>
 </div>
